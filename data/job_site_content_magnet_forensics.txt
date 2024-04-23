@@ -1,0 +1,487 @@
+Agree & Join LinkedIn
+By clicking Continue, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+Skip to main content
+LinkedIn
+AI Engineer in Kitchener, ON
+Expand search
+This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
+Jobs
+People
+Learning
+Clear text
+Clear text
+Clear text
+Clear text
+Clear text
+Join now
+Sign in
+AI Engineer
+Magnet Forensics
+Ottawa, Ontario, Canada
+Apply
+Join or sign in to find your next job
+Join to apply for the
+AI Engineer
+role at
+Magnet Forensics
+Not you?
+Remove photo
+First name
+Last name
+Email
+Password (6+ characters)
+By clicking Agree & Join, you agree to the LinkedIn
+User Agreement
+,
+Privacy Policy
+and
+Cookie Policy
+.
+Continue
+Agree & Join
+or
+You may also apply directly on
+company website
+.
+Security verification
+Already on LinkedIn? Sign in
+AI Engineer
+Magnet Forensics
+Ottawa, Ontario, Canada
+3 weeks ago
+Over 200 applicants
+See who Magnet Forensics has hired for this role
+Apply
+Join or sign in to find your next job
+Join to apply for the
+AI Engineer
+role at
+Magnet Forensics
+Not you?
+Remove photo
+First name
+Last name
+Email
+Password (6+ characters)
+By clicking Agree & Join, you agree to the LinkedIn
+User Agreement
+,
+Privacy Policy
+and
+Cookie Policy
+.
+Continue
+Agree & Join
+or
+You may also apply directly on
+company website
+.
+Security verification
+Already on LinkedIn? Sign in
+Save
+Save job
+Save this job with your existing LinkedIn profile, or create a new one.
+Your job seeking activity is only visible to you.
+Email
+Continue
+Welcome back
+Sign in to save
+AI Engineer
+at
+Magnet Forensics
+.
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Report this job
+Who We Are; What We Do; Where we’re Going
+Magnet Forensics is a global leader in the development of digital investigative software that acquires, analyzes, and shares evidence from computers, smartphones, tablets and other IoT related devices. We are continually innovating so that our customers can deploy advanced and effective tools to protect their companies, communities, and countries.
+Grayshift and Magnet Forensics have come together as one organization to accelerate innovation and transform digital investigations for our customers. We’re pleased to share that the combined organization is operating as Magnet Forensics.
+The combination of mobile, cloud and computer forensics expertise under the Magnet Forensics name underscores our dedication to providing comprehensive, end-to-end DFIR solutions. This includes our commitment to helping with access to modern digital devices lawfully with our renowned product suite. And, our focus on innovating for the DFIR community, along with our shared mission, continues to be the top priority.
+Where we are today, is not where we will be tomorrow.
+Role Summary:
+The AI Engineer is responsible for researching, designing, and developing AI models and techniques that power our products. They will work closely with our engineering and product teams to be a subject matter expert in using machine learning to revolutionize our digital forensic software.
+Role Responsibilities
+Be a subject matter expert, guiding machine learning development for research, development and product teams
+Working closely with team members to research, prototype, evaluate and implement machine learning models to solve challenges in digital forensics
+Developing and maintaining internal systems and frameworks for data curation and storage, model training, evaluation and analysis, and rapid prototyping
+Developing and maintaining robust datasets for training, evaluating and delivering forensically accurate machine learning systems
+Assisting teams throughout the organization with the development and productization of machine learning models
+Qualifications
+Master’s Degree in Artificial Intelligence; or, a minimum of 2 years’ recent experience as an AI Developer, Machine Learning Engineer, Data Scientist, or similar role
+Experience using deep neural networks and other machine learning approaches for picture classification and object detection
+Experience using various NLP approaches for text classification
+Experience with curating and maintaining datasets for model prototyping, training and analysis
+Experience working with large language models (LLMs) and related systems is an asset
+Experience developing production-grade software in C#/C++ and Python is an asset
+Experience with tools such as TensorFlow, PyTorch, or sklearn is an asset
+The Most Important Thing
+We’re looking for candidates that can provide examples of how they demonstrated Magnet CODE in their previous experiences
+CARE -We care about each other and our mission to make a difference in the world
+OWN -We are accountable for or results – while never forgetting to act with integrity, empathy, and respect
+DEDICATE -We put our heart and soul into meeting the needs of our customers and helping them serve the people they protect
+EVOLVE -We are constantly innovating and exploring new ways to work together to make an impact with our work
+We’re committed to continuous learning and are focused on building a diverse and inclusive workforce. This commitment will be reflected in our hiring processes and embedded in our values and how we treat one another. If you’re interested in this role, but do not meet all of the qualifications listed above, we encourage you to apply anyways.
+Magnet Forensics is an Equal Opportunity Employer and considers applicants for employment without regard to race, colour, religion, sex, orientation, national origin, age, disability, genetics or any other basis forbidden under federal, provincial, or local law.
+We are committed to providing an inclusive, accessible recruitment process and work environment. Accommodation is available to all applicants upon request throughout the hiring process. If you require accommodation, please let our talent team know, or you can email aoda@magnetforensics.com.
+All offers of employment at Magnet are contingent upon satisfactory completion of a background check. All background checks will be conducted in accordance with all applicable laws. Magnet will consider each position’s job duties, among other factors, in determining what constitutes satisfactory completion of the background check. Refusal to consent to a background check may be grounds for revoking an offer of employment.
+Show more
+Show less
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Software Development
+Referrals increase your chances of interviewing at Magnet Forensics by 2x
+See who you know
+Get notified about new
+Artificial Intelligence Engineer
+jobs in
+Ottawa, Ontario, Canada
+.
+Sign in to create job alert
+Similar jobs
+Java Cloud Developer
+Java Cloud Developer
+SHOEBOX Ltd.
+Ottawa, Ontario, Canada
+1 month ago
+Full Stack Developer - Clojure Script
+Full Stack Developer - Clojure Script
+SHOEBOX Ltd.
+Ottawa, Ontario, Canada
+2 months ago
+Software Engineer - Full Stack
+Software Engineer - Full Stack
+Recruitment Room
+Ottawa, Ontario, Canada
+$130,000.00
+            -
+            $210,000.00
+3 weeks ago
+Web Developer - .Net/C# - REMOTE within Ottawa
+Web Developer - .Net/C# - REMOTE within Ottawa
+Randstad Canada
+Ottawa, Ontario, Canada
+1 month ago
+Software Engineer - Backend
+Software Engineer - Backend
+Recruitment Room
+Ottawa, Ontario, Canada
+$130,000.00
+            -
+            $210,000.00
+1 month ago
+Front-End (React) Developer (Remote) - Permanent - 17165
+Front-End (React) Developer (Remote) - Permanent - 17165
+LRO Staffing
+Ottawa, Ontario, Canada
+3 weeks ago
+Intermediate Generalist Programmer
+Intermediate Generalist Programmer
+Snowed In Studios Inc.
+Ottawa, Ontario, Canada
+3 weeks ago
+Software Engineer - App Stores Backend (Remote)
+Software Engineer - App Stores Backend (Remote)
+Canonical
+Ottawa, Ontario, Canada
+3 weeks ago
+Software Engineer III
+Software Engineer III
+SpryPoint
+Ottawa, Ontario, Canada
+CA$90,000.00
+            -
+            CA$115,000.00
+1 month ago
+Senior Frontend Developer
+Senior Frontend Developer
+CapIntel
+Ottawa, Ontario, Canada
+1 week ago
+Software Engineer - Ubuntu Core
+Software Engineer - Ubuntu Core
+Canonical
+Ottawa, Ontario, Canada
+6 months ago
+Software Engineer - Integrations, Crawler
+Software Engineer - Integrations, Crawler
+Truv
+Alta Vista Ward, Ontario, Canada
+1 month ago
+Software Engineer - Solutions Engineering
+Software Engineer - Solutions Engineering
+Canonical
+Ottawa, Ontario, Canada
+3 weeks ago
+Software/Database Developer - Oracle - REMOTE within Ottawa
+Software/Database Developer - Oracle - REMOTE within Ottawa
+Randstad Canada
+Ottawa, Ontario, Canada
+4 weeks ago
+Software Engineer - Ubuntu Core
+Software Engineer - Ubuntu Core
+Canonical
+Ottawa, Ontario, Canada
+2 months ago
+Senior Software Developer
+Senior Software Developer
+Assent
+Ottawa, Ontario, Canada
+22 hours ago
+Full Stack Developer (Contract)
+Full Stack Developer (Contract)
+Zuva
+Ottawa, Ontario, Canada
+2 weeks ago
+Python ETL Developer/Data Engineer - Remote
+Python ETL Developer/Data Engineer - Remote
+IPVISIBILITY
+Ottawa, Ontario, Canada
+1 month ago
+Software Engineer - Java
+Software Engineer - Java
+Veeva Systems
+Ottawa, Ontario, Canada
+3 days ago
+Software Engineer - App Stores Backend (Remote)
+Software Engineer - App Stores Backend (Remote)
+Canonical
+Gatineau, Quebec, Canada
+3 weeks ago
+Web Frontend Engineer - JS, CSS, React, Flutter
+Web Frontend Engineer - JS, CSS, React, Flutter
+Canonical
+Ottawa, Ontario, Canada
+6 hours ago
+Software Engineer - Digital Workplace
+Software Engineer - Digital Workplace
+Canonical
+Ottawa, Ontario, Canada
+2 months ago
+Software Engineer - Python and K8s
+Software Engineer - Python and K8s
+Canonical
+Ottawa, Ontario, Canada
+1 week ago
+Software Engineer - Python/Golang - Kubernetes
+Software Engineer - Python/Golang - Kubernetes
+Canonical
+Ottawa, Ontario, Canada
+1 week ago
+Software Engineer - Ubuntu Systems Management
+Software Engineer - Ubuntu Systems Management
+Canonical
+Ottawa, Ontario, Canada
+3 weeks ago
+Software Engineer - Cross-platform C++ - Multipass
+Software Engineer - Cross-platform C++ - Multipass
+Canonical
+Ottawa, Ontario, Canada
+1 month ago
+Software Engineer, Sustaining Engineering
+Software Engineer, Sustaining Engineering
+Canonical
+Ottawa, Ontario, Canada
+2 days ago
+Show more jobs like this
+Show fewer jobs like this
+People also viewed
+Software Engineer - Full Stack
+Software Engineer - Full Stack
+Veeva Systems
+Ottawa, Ontario, Canada
+3 days ago
+Python Engineer
+Python Engineer
+Canonical
+Ottawa, Ontario, Canada
+5 months ago
+Software Engineer - Solutions Engineering
+Software Engineer - Solutions Engineering
+Canonical
+Gatineau, Quebec, Canada
+3 weeks ago
+Python Engineer
+Python Engineer
+Canonical
+Gatineau, Quebec, Canada
+5 months ago
+Software Engineer (Python/Linux/Packaging)
+Software Engineer (Python/Linux/Packaging)
+Canonical
+Ottawa, Ontario, Canada
+1 month ago
+Software Engineer - Ubuntu Core
+Software Engineer - Ubuntu Core
+Canonical
+Gatineau, Quebec, Canada
+2 months ago
+Software Engineer II, Frontend (T&S Experience)
+Software Engineer II, Frontend (T&S Experience)
+Affirm
+Ottawa, Ontario, Canada
+1 day ago
+Software Engineer - Python and K8s
+Software Engineer - Python and K8s
+Canonical
+Gatineau, Quebec, Canada
+1 week ago
+Software Engineer - Data Infrastructure
+Software Engineer - Data Infrastructure
+Canonical
+Ottawa, Ontario, Canada
+10 months ago
+Senior Mobile Developer Tools Engineer (Canada Remote)
+Senior Mobile Developer Tools Engineer (Canada Remote)
+Fullscript
+Ottawa, Ontario, Canada
+3 weeks ago
+Similar Searches
+Forensic Accountant jobs
+2,773 open jobs
+Incident Manager jobs
+668 open jobs
+Intelligence Analyst jobs
+1,122 open jobs
+Director of Software Engineering jobs
+557 open jobs
+Dotnet Developer jobs
+2,621 open jobs
+Finance Specialist jobs
+11,771 open jobs
+Full Stack Engineer jobs
+2,259 open jobs
+Senior Analyst jobs
+8,216 open jobs
+Junior Account Executive jobs
+7,496 open jobs
+Project Director jobs
+6,603 open jobs
+Intelligence Officer jobs
+552 open jobs
+Software Engineer jobs
+33,545 open jobs
+Explore collaborative articles
+We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI.
+Explore More
+More searches
+More searches
+Microserve jobs
+Nexii Building Solutions jobs
+Elastic Path jobs
+Match Retail jobs
+Big Bang jobs
+The Mobile Shop jobs
+Igloo Software jobs
+TransLink jobs
+Global Relay jobs
+Forensic Accountant jobs
+Linamar Corporation jobs
+Miovision jobs
+KORE jobs
+Medicago jobs
+Fullscript jobs
+Region of Waterloo jobs
+24-7 Intouch jobs
+Achievers jobs
+Element Fleet Management jobs
+Entertainment One jobs
+Coveo jobs
+Kal Tire jobs
+Planet jobs
+EXFO jobs
+Cowan Insurance Group jobs
+ApplyBoard jobs
+Afiniti jobs
+Meta jobs
+Genetec jobs
+Later jobs
+Saputo Inc. jobs
+Incident Manager jobs
+D2L jobs
+Hyperscience jobs
+OpenText jobs
+Intelligence Analyst jobs
+KPMG Canada jobs
+Empire Life jobs
+Director of Software Engineering jobs
+Mosaic North America jobs
+1Password jobs
+Dotnet Developer jobs
+Trulioo jobs
+Finance Specialist jobs
+Full Stack Engineer jobs
+Senior Analyst jobs
+Junior Account Executive jobs
+Optiv jobs
+Arctic Wolf jobs
+Project Director jobs
+PointClickCare jobs
+Shopify jobs
+Bench Accounting jobs
+Intelligence Officer jobs
+Software Engineer jobs
+Ada jobs
+ADP jobs
+RBC Ventures jobs
+Sitecore jobs
+Rapid7 jobs
+LinkedIn
+© 2024
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+العربية (Arabic)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+English (English)
+Español (Spanish)
+Français (French)
+हिंदी (Hindi)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+日本語 (Japanese)
+한국어 (Korean)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))
+Language
+Save time applying to future jobs
+You can save your resume and apply to jobs in minutes on LinkedIn
+Sign in
+Join now
+You’re signed out
+Sign in for the full experience.
+Sign in
+Join now

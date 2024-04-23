@@ -1,0 +1,26 @@
+Objective: parse the given work experience and fill the information into a structured JSON format.
+
+Input: Text-formatted work experience.
+
+Output: with the following JSON format:
+```
+interface work_experience {
+  role: string;
+  company: string;
+  link?: string;
+  from: string;
+  to: string;
+  description: string[];
+  # Resume can have multiple work experience items here.
+}
+```
+Desired Output: 
+1. Write the Well-formatted JSON adhering to the JSON format, handling missing values with empty strings or "None".
+2. The results should contain valid JSON only, without any delimiter or characters making invalid JSON format.
+3. Fill in the information only with what you can find in the resume.
+4. Do not change the structure of the JSON output.
+5. Everything in the resume is meaningful. Try to fill them into the form while not violating the points above.
+6. Do not add anything that you don't find in the given input.
+7. use "-" instead of "\u2013"
+------
+input:

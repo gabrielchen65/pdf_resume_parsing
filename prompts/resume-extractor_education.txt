@@ -1,0 +1,26 @@
+Objective: parse the given education and fill the information into a structured JSON format.
+
+Input: Text-formatted education.
+
+Output: with the following JSON format:
+```
+interface Education {
+  degree: string;
+  university: string;
+  from: string;
+  to: string;
+  grade: string;
+  description: string[];
+  # Resume can have multiple education items.
+  # Treat every listing under each education title as their descriptions.
+}
+```
+Desired Output: 
+1. Write the Well-formatted JSON adhering to the JSON format, handling missing values with empty strings or "None".
+2. The results should contain valid JSON only, without any delimiter or characters making invalid JSON format.
+3. Fill in the information only with what you can find in the resume.
+4. Do not change the structure of the JSON output.
+5. Everything in the resume is meaningful. Try to fill them into the form while not violating the points above.
+6. Do not add anything that you don't find in the given input.
+------
+input:

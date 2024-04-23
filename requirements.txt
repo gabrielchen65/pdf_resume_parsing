@@ -1,0 +1,6 @@
+pdfplumber
+langchain-core
+transformers
+torch
+scikit-learn
+langchain_community

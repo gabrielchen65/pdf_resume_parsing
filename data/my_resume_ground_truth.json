@@ -1,0 +1,134 @@
+{
+  "name": "Gabriel Chen",
+  "summary": "4 years of Machine Learning Engineerexperience, led infrared face recognition project, delivered high-impact product.",
+  "phone": "(+1) 123-456-4567 ",
+  "email": "szgabrielchen@gmail.com",
+  "media": {
+    "linkedin": "linkedin.com/in/gabrielchen65",
+    "github": "",
+    "devpost": "",
+    "medium": "",
+    "leetcode": "",
+    "dagshub": "",
+    "kaggle": "",
+    "instagram": ""
+  },
+  "education": [
+    {
+      "degree": "Master of Electrical and Computer Engineering",
+      "university": "University of Waterloo",
+      "from": "2022 Sep",
+      "to": "2023 Dec",
+      "grade": "3.75/4",
+      "description": [
+        "Used-Car Database Project: Designed the complete ER diagram from scratch and used SQL (MySQL) to implement"
+      ]
+    },
+    {
+      "degree": "Master of Electrical Engineering",
+      "university": "National Tsing Hua University (NTHU)",
+      "from": "2015 Sep",
+      "to": "2018 Feb",
+      "grade": "3.84/4.3",
+      "description": [
+        "Publication as the second author: “Recognition from Hand Cameras: A Revisit with Deep Learning”, ECCV 2016"
+      ]
+    }
+  ],
+  "skills": {
+    "SkillSection": [
+      {
+        "name": [
+          "NLP",
+          "LLM",
+          "Python",
+          "PyTorch",
+          "TensorFlow",
+          "Ubuntu",
+          "GitHub",
+          "SQL(MySQL)",
+          "ComputerVision"
+        ]
+      }
+    ]
+  },
+  "work_experience": [
+    {
+      "role": "Machine Learning Engineer",
+      "company": "Egis Technology",
+      "from": "2019 May",
+      "to": "2022 June",
+      "description": [
+        "Project lead since October 2020. The product has been in mass production since October 2021. This product drove up to $5 million in revenue and fostered the following partnership with the client.",
+        "Analyzed root causes of prediction errors, and managed data collection from in-house and outsourced teams",
+        "Fine-tuned face recognition model (ArcFace) with a carefully self-crafted dataset with distributed computing",
+        "Proposed and implemented data pipeline refinements to reduce 10% false rejection rate",
+        "Reduced 5% false rejection rate using data augmentation with simulated sunlight pattern",
+        "Proposed and implemented an ensemble image classification Anti-Spoofing method to reduce the spoofing acceptance rate to lower than 1% while maintaining the low false rejection rate",
+        "Created a data augmentation for mouth/nose detection with minimum training data for effective mask detection during the pandemic era"
+      ]
+    },
+    {
+      "role": "Machine Learning Engineer",
+      "company": "Egis Technology",
+      "from": "",
+      "to": "",
+      "description": [
+        "Evaluated and redesigned the architecture of models (segmentation, super-resolution) using Pytorch to ensure the peak memory usage and FLOPS are compatible with the in-house edge AI integrated circuit design"
+      ]
+    },
+    {
+      "role": "Machine Learning Engineer",
+      "company": "Theia Tech",
+      "from": "2018 Oct",
+      "to": "2019 April",
+      "description": [
+        "Captured the location of on-screen display text with the object detection method to avoid abnormal 3D effects on text and generate a better user experience"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Clickbait Spoiling",
+      "type": "Project",
+      "link": "https://github.com/gabrielchen65/clickbait_spoiler/tree/main",
+      "from": "",
+      "to": "",
+      "description": [
+        "Aimed to save users' time by spoiling tedious articles with sensational titles",
+        "Devised and implemented a comprehensive pipeline to counter various clickbait types, boosting performance by 9%",
+        "Utilized Hugging Face tokenization and transformer models (RoBERTa, T5) on Kaggle cloud and SageMaker",
+        "Fine-tuned larger models with LoRA, further improving performance by 15% (meteor score).",
+        "Employed GPT-3.5 turbo API as project baseline."
+      ]
+    },
+    {
+      "name": "Automatic Resume Tailoring",
+      "type": "Project",
+      "link": "https://github.com/gabrielchen65/resume_tailoring_llm",
+      "from": "",
+      "to": "",
+      "description": [
+        "Adding support for the local LLM options (Mistral with Hugging Face or Ollama) and speeding up the pipeline by 5%",
+        "Optimizing performance with the feedback loop.",
+        "Parsing pdf file by sections robustly with meteor score, BERT embedding and LLM model.",
+        "Prompt engineering for LLM to perform the best in resume refinement work with carefully crafted prompts",
+        "Restricting output to structured JSON format with GBNF grammar"
+      ]
+    },
+    {
+      "name": "ChatGPT clone chatbot",
+      "type": "Project",
+      "link": "http://54.157.52.40:8501/",
+      "from": "",
+      "to": "",
+      "description": [
+        "Deployed ChatGPT-like app with OpenAI API and Streamlit on AWS EC2."    
+      ]
+    }
+  ],
+  "certifications": [
+  ],
+  "achievements": [
+  ]
+}

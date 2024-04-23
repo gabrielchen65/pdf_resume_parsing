@@ -1,0 +1,19 @@
+Objective: parse the given achievements and fill the information into a structured JSON format.
+
+Input: Text-formatted achievements.
+
+Output: with the following JSON format:
+```
+interface Achievements {
+  [index: number]: string;
+  # Resume can have multiple achievements items here.
+}
+```
+Desired Output: 
+1. Write the Well-formatted JSON adhering to the JSON format, handling missing values with empty strings or "None".
+2. The results should contain valid JSON only, without any delimiter or characters making invalid JSON format.
+3. Fill in the information only with what you can find in the resume.
+4. Do not change the structure of the JSON output.
+5. Do not add anything that you don't find in the given input.
+------
+input:
