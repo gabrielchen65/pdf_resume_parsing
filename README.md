@@ -1,12 +1,16 @@
 # PDF Resume Parsing
 
 This project is the first task of [resume tailoring project](https://github.com/gabrielchen65/resume_tailoring_llm), aimed to extract the information from the unstructured PDF resume and store it into the structure JSON format.
-(pdf figure)
-(parsed json figure)
+
+### Input resume (only showing a section here)
+!["section of resume"](./images/pdf_resume.png "section of resume")
+
+### Output JSON format
+!["output JSON format"](./images/pdf_resume_output_json.png "output JSON format")
 
 ## Getting Started
 ### Getting the LLM Model
-First, let's get the open-source LLM model. I'm running this project with a RTX 3090 24RAM and I chose [Mistral 7B instruct v0.2](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2) to run as my model to parse the semantic text. However, this 7B model does not fit in my GPU coming out of the box, so the quantization is needed. 
+First, let's get the open-source LLM model. I'm running this project with a RTX 3090 24G VRAM and I chose [Mistral 7B instruct v0.2](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2) to run as my model to parse the semantic text. However, this 7B model does not fit in my GPU coming out of the box, so the quantization is needed. 
 
 There are two ways to do it:
 
